@@ -1,7 +1,7 @@
 ###### _pt-br_
 ### Rodapé criado para uso em meu site, estou disponibilizando, use, modifique ao seu gosto. <br />
 ## Bom trabalho!
-##### por Junior Criste
+##### por [Junior Criste](https://github.com/JuniorCriste)
 
 #### [Tutorial em vídeo](https://www.youtube.com/watch?v=Z4sRhweYDeo)
 

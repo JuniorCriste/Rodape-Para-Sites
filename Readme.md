@@ -3,4 +3,6 @@
 ## Bom trabalho!
 ##### por Junior Criste
 
-<img src="https://github.com/JuniorCriste/Rodape-Para-Sites/blob/master/print/printscreen.png">
+### ![Tutorial em vídeo](https://www.youtube.com/watch?v=Z4sRhweYDeo)
+
+![](https://github.com/JuniorCriste/Rodape-Para-Sites/blob/master/print/printscreen.png)
